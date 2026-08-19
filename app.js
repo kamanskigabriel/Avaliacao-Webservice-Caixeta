@@ -6,20 +6,22 @@ app.use(express.json())
 let livros = [
     {
         id: 1,
-        titulo: "Dom Casmurro",
-        autor: "Machado de Assis",
+        titulo: "Os distorcidos",
+        autor: "Scott Cowthon",
         disponivel: true
     },
+    
     {
         id: 2,
-        titulo: "O Cortiço",
-        autor: "Aluísio Azevedo",
+        titulo: "O Suicído",
+        autor: "Émile Durkhein",
         disponivel: true
     },
+
     {
         id: 3,
-        titulo: "1984",
-        autor: "George Orwell",
+        titulo: "Dungeons & Dragons 5.5",
+        autor: "Jeremy Crawford",
         disponivel: false
     }
 ]
