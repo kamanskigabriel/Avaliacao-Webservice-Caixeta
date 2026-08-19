@@ -22,12 +22,12 @@ Os dados são armazenados em uma lista (array) em memória, simulando um banco d
 `Post /livros`
 `Put /livro/: id`
 `Delete /livros/: id`
-## como instalar / rodar
+## como clonar
 Clonar o repositorio
 com "Git clone <URL>"
----
+## intalação
 npm i express
 npm init
 npm i
----
+## Como rodar via GitBash
 npm run dev
