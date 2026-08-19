@@ -1,0 +1,24 @@
+{
+  "name": "avaliacao-webservice-caixeta",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kamanskigabriel/Avaliacao-Webservice-Caixeta#readme",
+  "bugs": {
+    "url": "https://github.com/kamanskigabriel/Avaliacao-Webservice-Caixeta/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamanskigabriel/Avaliacao-Webservice-Caixeta.git"
+  },
+  "license": "ISC",
+  "author": "Gabriel Kamanski",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
