@@ -8,21 +8,21 @@ let livros = [
         id: 1,
         titulo: "Os distorcidos",
         autor: "Scott Cowthon",
-        disponivel: true
+        disponivel: "Disponivel para comprar"
     },
-    
+
     {
         id: 2,
         titulo: "O Suicído",
         autor: "Émile Durkhein",
-        disponivel: true
+        disponivel: "Disponivel para comprar"
     },
 
     {
         id: 3,
         titulo: "Dungeons & Dragons 5.5",
         autor: "Jeremy Crawford",
-        disponivel: false
+        disponivel: "Não está disponivel para comprar"
     }
 ]
 
