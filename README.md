@@ -27,7 +27,9 @@ Clonar o repositorio
 com "Git clone <URL>"
 ## intalação
 npm i express
+-
 npm init
+-
 npm i
 ## Como rodar via GitBash
 npm run dev
